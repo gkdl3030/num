@@ -9,4 +9,7 @@
 ![image](https://user-images.githubusercontent.com/80745282/170975359-0724a9d7-61a5-471f-9c7f-066a79e8c5bc.png)
 
 # mysql 데이터
+
+![image](https://user-images.githubusercontent.com/80745282/170976320-631d66aa-1b67-4ba1-bfbe-80a178d3b2a3.png)
 ![image](https://user-images.githubusercontent.com/80745282/170975503-07f510bc-29e5-4bf2-ae25-cd15673c56af.png)
+
