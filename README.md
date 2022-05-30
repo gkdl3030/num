@@ -1,6 +1,7 @@
 # 기본 코딩 소스에서 수정을 해 바꾸기
 
 코딩 안에 있는 몇개의 글자를 수정하여 글자와 결과 값 바꾸기
+
 ![image](https://user-images.githubusercontent.com/80745282/170975101-0a43de04-0938-4f7e-a35d-1aeab817cdfd.png)
 ![image](https://user-images.githubusercontent.com/80745282/170975218-f652de8b-22fa-41d2-9d5c-dfe5ee41c9a0.png)
 ![image](https://user-images.githubusercontent.com/80745282/170975259-704e30c9-cb25-4fcb-837a-f50a98cfe8ed.png)
